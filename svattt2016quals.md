@@ -30,7 +30,7 @@ Let's input:
     
 Response:    
 
-	Your credential: sdfsdfsdfsd
+	Your credential: aaaaaaaaaaaaaaa
 	Traceback (most recent call last):
 	  File "/home/admincp/server.py", line 43, in login = json.loads(AES.new(KEY, AES.MODE_OFB, IV).decrypt(cipher.decode('hex')))
 	  File "/usr/lib/python2.7/encodings/hex_codec.py", line 42, in hex_decode output = binascii.a2b_hex(input)
@@ -47,7 +47,7 @@ Tiếp tục:
 	  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode raise ValueError("No JSON object could be decoded")
 	ValueError: No JSON object could be decoded
 	
-Như vậy, chúng ta sẽ phải tìm một ciphertext sao cho plaintext có thể parse vào `json.loads()`  
+Như vậy, chúng ta sẽ phải tìm một input (ciphertext) sao cho plaintext = D<sub>key</sub>(ciphertext) có thể parse vào `json.loads()`  
 [OFB Mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Output_Feedback_.28OFB.29)  
 ![ofb mode decryption](https://upload.wikimedia.org/wikipedia/commons/f/f5/OFB_decryption.svg)    
 Các exception thật không tự nhiên, mình nghĩ vậy, nếu không thì thật là vô lý  
