@@ -47,7 +47,7 @@ Tiếp tục:
 	  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode raise ValueError("No JSON object could be decoded")
 	ValueError: No JSON object could be decoded
 	
-Như vậy, chúng ta sẽ phải tìm một ciphertext sao cho input có thể parse vào `json.loads()`  
+Như vậy, chúng ta sẽ phải tìm một ciphertext sao cho plaintext có thể parse vào `json.loads()`  
 [OFB Mode](https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Output_Feedback_.28OFB.29)  
 ![ofb mode decryption](https://upload.wikimedia.org/wikipedia/commons/f/f5/OFB_decryption.svg)    
 Các exception thật không tự nhiên, mình nghĩ vậy, nếu không thì thật là vô lý  
