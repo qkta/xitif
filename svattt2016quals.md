@@ -16,6 +16,11 @@ Nhập '00000032', boooombb
 Thuật toán, mật mã là điều gì đó khá xa xỉ với mình, mình thích hardcore và sự thô thiển  
 [mrc.c](https://gist.github.com/khtq/c82f7879c228295cdea2d1bc21aaf58b)
 
+## `c00kie` - RE 200 pts
+by [@Lê Ân](https://www.facebook.com/x0o.Unknown.o0x)  
+[Link](http://www.hack2learn.xyz/2016/11/ctf-writeup-002.html)  
+[idb](/SVATTT2016Quals/c00kie.idb)  
+
 ## `admincp` - Web 200 pts
 Gần cuối giờ thi đấu, đội mình vẫn đang top 10, anh em vẫn đang hừng hực khí thế, ngay cả khi cả đội quyết định không ăn trưa, thật là tội đồ nếu như mình vẫn đâm đầu vào bài RE 200pts mà không ra. Và mình quyết định chuyển sang làm bài khác khi đồng đội nói rằng đéo phải web đâu, là crypto, mình k tin nó.   
 Thật không văn minh nếu như giải bài này khi đã có source
@@ -142,5 +147,5 @@ Your credential: 98e383a12794442bd5688d1e6dc29589
 Here is your reward: SVATTT{sorry_this_aint_totally_cryptography_using_crypto_w1sely_btw}
 ```  
 Cá nhân mình thấy bài này không khó, thế nhưng vẫn không có đội nào chịu submit  
-Kết thúc cuộc thi team mình đứng ở vị trí thứ 2, cảm ơn tất cả các nhà tài trợ cùng BTC, và cảm giác teamwork cùng đồng đội thật tuyệt. Mặc dù mình biết kết quả đạt được còn một phần may mắn. I know it man. Tuy nhiên, đó vẫn là một khoảnh khắc thực sự tuyệt vời. Cũng cảm ơn chủ nhà MTA, rất chu đáo  
+Kết thúc cuộc thi team mình đứng ở vị trí thứ 2, cảm ơn tất cả các nhà tài trợ cùng BTC, và cảm giác teamwork cùng đồng đội thật tuyệt. Mặc dù mình biết kết quả đạt được còn một phần may mắn. Tuy nhiên, đó vẫn là một khoảnh khắc thực sự tuyệt vời. Cũng cảm ơn chủ nhà MTA, rất chu đáo  
 Btw, bạn thấy giọng văn của mình giống ai đó? Bạn đúng mẹ nó rồi đó, mình thần tượng nhiều lắm mà, again =))
