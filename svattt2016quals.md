@@ -16,7 +16,7 @@ Nhập '00000032', boooombb
 Thuật toán, mật mã là điều gì đó khá xa xỉ với mình, mình thích hardcore và sự thô thiển  
 [mrc.c](https://gist.github.com/khtq/c82f7879c228295cdea2d1bc21aaf58b)
 
-## `c00kie` - RE 200 pts
+## `c00kie` - RE|Pwn 200 pts
 by [@Lê Ân](https://www.facebook.com/x0o.Unknown.o0x)  
 [Link](http://www.hack2learn.xyz/2016/11/ctf-writeup-002.html)  
 [idb](/SVATTT2016Quals/c00kie.idb)  
